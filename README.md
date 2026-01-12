@@ -75,8 +75,8 @@ Veritabanının diskteki yavaşlığına karşı kurduğu en güçlü savunma ha
 
 ## VT Üzerinde Gösterilen Kaynak Kodları
 
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
-Açıklama [Linki](https://...) \
+Açıklama [Linki](https://github.com/mackyle/sqlite/blob/master/src/wal.c) \
+Açıklama [Linki](https://github.com/mackyle/sqlite/blob/master/src/btreeInt.h) \
+Açıklama [Linki](https://github.com/mackyle/sqlite/blob/master/src/btree.c) \
 ... \
 ...
